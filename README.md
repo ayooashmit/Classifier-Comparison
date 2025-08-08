@@ -27,3 +27,5 @@ Each model was evaluated using:
 ## Goal
 
 Compare classification models to detect FASTag fraud effectively.
+
+<img width="901" height="548" alt="Image" src="https://github.com/user-attachments/assets/08682106-a378-4b1e-a1a9-ced6445899e3" />
